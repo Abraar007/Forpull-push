@@ -1,0 +1,1 @@
+echo " TO push this file from local repository to GitHUB(Centeral Repo) or \n in other words copying this file from loacal to github repo
